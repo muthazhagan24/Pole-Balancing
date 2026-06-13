@@ -1,3 +1,6 @@
+### Name: Sri muthazhagan P
+### Register Number: 2305002024
+
 # EX.1  Pole Balancing using Reinforcement Learning
 ## Date: 09-05-2026
 
